@@ -1,16 +1,16 @@
 {
-    "name": "laravel/bdy-framework",
-    "description": "The Laravel BDY Framework.",
+    "name": "badouyun/bdy-framework",
+    "description": "The BDY Framework By Laravel.",
     "keywords": ["framework", "laravel", "bdy"],
     "license": "MIT",
     "homepage": "https://www.bdy608.com/",
     "support": {
-        "issues": "https://github.com/wang20211128/bdy-framework.git/issues",
-        "source": "https://github.com/wang20211128/bdy-framework.git"
+        "issues": "https://github.com/badouyun/bdy-framework.git/issues",
+        "source": "https://github.com/badouyun/bdy-framework.git"
     },
     "authors": [
         {
-            "name": "BDY",
+            "name": "badouyun",
             "email": "863051182@qq.com"
         }
     ],
