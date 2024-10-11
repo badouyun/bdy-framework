@@ -5,13 +5,13 @@
     "license": "MIT",
     "homepage": "https://www.bdy608.com/",
     "support": {
-        "issues": "https://github.com/laravel/lumen-framework/issues",
-        "source": "https://github.com/laravel/lumen-framework"
+        "issues": "https://github.com/wang20211128/bdy-framework.git/issues",
+        "source": "https://github.com/wang20211128/bdy-framework.git"
     },
     "authors": [
         {
             "name": "BDY",
-            "email": "taylor@laravel.com"
+            "email": "863051182@qq.com"
         }
     ],
     "require": {
